@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>484d294</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10" cy="10" r="10"></circle>
+    </defs>
+    <g id="交易所" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页1" transform="translate(-1796.000000, -116.000000)">
+            <g id="导航">
+                <g id="EN" transform="translate(1572.000000, 18.000000)">
+                    <g id="Group-5" transform="translate(214.000000, 48.000000)">
+                        <g id="484d294" transform="translate(10.000000, 50.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#D8D8D8" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <g mask="url(#mask-2)">
+                                <g transform="translate(-5.000000, -1.000000)">
+                                    <path d="M3.55271368e-15,19.8854436 L30,19.8854436 L30,0 L3.55271368e-15,0 L3.55271368e-15,19.8854436 Z M0.123061238,19.7876945 L29.8769633,19.7876945 L29.8769633,0.146562894 L0.123061238,0.146562894 L0.123061238,19.7876945 Z M29.9261878,19.7632876 L29.9261878,19.877844 L29.9261878,19.7632876 Z M0,19.8854436 L0,20 L0,19.8854436 Z" id="Shape" fill="#353636" fill-rule="nonzero"></path>
+                                    <polygon id="Shape" fill="#00458F" fill-rule="nonzero" points="0 20 30 20 30 0 1.28653217e-15 0"></polygon>
+                                    <g id="Group" stroke-width="1" fill="none" fill-rule="evenodd">
+                                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="29.9208211 7.11547141 17.9869485 7.11547141 17.9869485 0.0746437883 12.0077084 0.0746437883 12.0077084 7.11547141 0.0738112731 7.11547141 0.0738112731 13.1611477 12.0077084 13.1611477 12.0077084 20.2019753 17.9869485 20.2019753 17.9869485 13.1611477 29.9208211 13.1611477"></polygon>
+                                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="29.9208211 17.8882457 3.49410539 0.0746487467 0.0738112731 0.0746487467 0.0738112731 2.41326449 26.4759436 20.2019554 29.9208211 20.2019554"></polygon>
+                                        <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="0.0738161769 17.8882457 26.5005564 0.0746487467 29.920826 0.0746487467 29.920826 2.41326449 3.51866912 20.2019554 0.0738161769 20.2019554"></polygon>
+                                    </g>
+                                    <polygon id="Shape" fill="#CC3440" fill-rule="nonzero" points="30 9.25707887 16.7436222 9.25707887 16.7436222 1 13.2563531 1 13.2563531 9.25707887 0 9.25707887 0 12.7429212 13.2563531 12.7429212 13.2563531 21 16.7436222 21 16.7436222 12.7429212 30 12.7429212"></polygon>
+                                    <path d="M0,4.4408921e-16 L0,1.58218107 L8.11207974,6.99629389 L10.5111525,6.99629389 L0,4.4408921e-16 Z M10.4369505,13.0037308 L0,19.9506015 L0,20 L2.27530429,20 L11.9950434,13.547607 L11.9950434,13.0037308 L10.4369505,13.0037308 Z M30,0 L27.6256613,0 L18.004932,6.40296983 L18.004932,6.99629389 L19.4888476,6.99629389 L30,0 Z M30,19.9506015 L30,18.3684204 L21.9372897,13.0037308 L19.5630495,13.0037308 L30,19.9506015 Z" id="Shape" fill="#CC3440" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

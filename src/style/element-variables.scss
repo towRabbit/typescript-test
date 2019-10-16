@@ -1,0 +1,162 @@
+/*
+Write your variables here. All available variables can be
+found in element-ui/packages/theme-chalk/src/common/var.scss.
+For example, to overwrite the theme color:
+*/
+$--color-primary: #51A0F1;
+
+/* icon font path, required */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
+
+.el-form-item__error {
+  // display: none;
+}
+
+.el-form--label-top .el-form-item__label {
+  margin: 0;
+  padding: 0;
+}
+
+.el-form-item__content {
+  line-height: 1;
+}
+
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.avatar-uploader .el-upload:hover {
+  border-color: #409eff;
+}
+
+.avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 178px;
+  height: 178px;
+  line-height: 178px;
+  text-align: center;
+}
+
+.avatar {
+  width: 178px;
+  height: 178px;
+  display: block;
+}
+
+.el-card {
+  border-radius: 6px;
+  border: none;
+
+  &.is-always-shadow {
+    box-shadow: 0 2px 12px 0 rgba(99, 106, 204, 0.10);
+  }
+}
+
+.el-input {
+
+
+  &__inner {
+    border-color: #F7F8FA;
+    background: #F7F8FA;
+    border-radius: 1px;
+    height: 38px;
+    line-height: 38px;
+  }
+}
+
+.el-textarea__inner {
+  border-color: #F7F8FA;
+  background: #F7F8FA;
+  border-radius: 1px;
+}
+
+.el-button {
+  border-radius: 1px;
+
+  &.lage {
+    min-width: 300px;
+    height: 45px;
+  }
+}
+
+.el-upload {
+  width: 100%;
+  max-width: 360px;
+}
+
+.el-upload-dragger {
+  width: 100%;
+
+  .el-upload__text {
+    line-height: 1.5;
+  }
+}
+
+.el-dropdown {
+  font-size: 16px;
+}
+
+.el-dialog {
+  border-radius: 5px;
+}
+
+.el-dialog__headerbtn .el-dialog__close {
+  font-size: 22px;
+}
+
+.el-dialog__title {
+  font-size: 24px;
+  color: #142144;
+}
+
+.submit-tip {
+  .byb-icon-submit-success {
+    font-size: 80px;
+    color: #51A0F1;
+  }
+
+  h4 {
+    margin-bottom: 28px;
+    margin-top: 16px;
+  }
+
+  a {
+    color: #51A0F1;
+    text-decoration: underline;
+  }
+
+  .el-button {
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 15px 20px;
+  }
+
+  .el-input__inner {
+    border-radius: 5px;
+    line-height: 44px;
+    height: 46px;
+  }
+}
+
+.el-table {
+  tr {
+    background: rgba(249, 249, 249, 0.70);
+  }
+
+  tbody {}
+}
+
+.el-form-item.is-success .el-input__inner,
+.el-form-item.is-success .el-input__inner:focus,
+.el-form-item.is-success .el-textarea__inner,
+.el-form-item.is-success .el-textarea__inner:focus {
+  border-color: #F7F8FA;
+}
